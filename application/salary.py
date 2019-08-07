@@ -1,1 +1,2 @@
 
+def calculate_salary():
